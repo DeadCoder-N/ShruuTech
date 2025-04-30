@@ -120,7 +120,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-200 dark:border-gray-700 mt-12 pt-8 text-center">
           <p className="text-gray-600 dark:text-light-darker text-sm">
-            &copy; {currentYear} ShruuTech Security. All rights reserved.
+            &copy; {currentYear} Dead Coder. All rights reserved.
           </p>
         </div>
       </div>
