@@ -68,6 +68,9 @@ const Footer = () => {
               <Link to="/about" className="block text-gray-600 hover:text-primary-600 dark:text-light-darker dark:hover:text-secondary-400 transition-colors">
                 About
               </Link>
+              <Link to="/login" className="block text-gray-600 hover:text-primary-600 dark:text-light-darker dark:hover:text-secondary-400 transition-colors">
+                Admin
+              </Link>
             </nav>
           </div>
 
